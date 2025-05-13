@@ -16,7 +16,6 @@ Welcome to my resume repository! I'm Pranav Gupta, an AI enthusiast currently pu
 
 ### DELLSOFT Technologies Pvt. Ltd. – AI Trainee
 *Nov 2024 – Jan 2025 | Noida, India*
-- Built a fraud detection model with 98% accuracy using Python & TensorFlow.
 - Delivered real-time AI solutions with iterative development and clean code.
 - Actively contributed to team collaboration and problem-solving.
 
