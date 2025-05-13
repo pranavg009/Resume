@@ -39,7 +39,11 @@ Welcome to my resume repository! I'm Pranav Gupta, an AI enthusiast currently pu
 
 - Applied Machine Learning in Python
 - Google Data Analytics Professional Certificate
-- Oracle AI Vector Search & Cloud Infrastructure (2025)
+- Oracle AI Vector Search & Cloud Infrastructure (2025) - Oracle
+- Introduction to Generative AI - Google
+- Cloud Computing - NPTEL
+- Google Cloud Big Data and Machine Learning Fundamentals
+- CRUD operations using cx_Oracle and Python - Oracle
 
 ---
 
